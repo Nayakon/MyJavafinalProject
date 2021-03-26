@@ -1,0 +1,4 @@
+  enum Status  {MARRIED, SINGLE, DIVORCED,UNKNOWN}
+
+
+
